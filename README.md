@@ -17,7 +17,7 @@ React / Redux / Gulp / Babel / ES6 Boilerplate
 To download the project, you need to clone it first.
 
 ``
-git clone https://github.com/Beraliv/react-create-app
+git clone https://github.com/Beraliv/create-react-app
 ``
 
 After that, you need to install all dependencies.
