@@ -5,7 +5,7 @@ React / Redux / Gulp / Babel / ES6 Boilerplate
 <a href="https://travis-ci.org/Beraliv/create-react-app"><img src="https://travis-ci.org/Beraliv/create-react-app.svg" alt="Build Status"></a>
 <a href='https://david-dm.org/Beraliv/create-react-app'><img src='https://david-dm.org/Beraliv/create-react-app.svg' alt="Dependency Status"></a>
 <a href="https://david-dm.org/Beraliv/create-react-app/?type=dev"><img src="https://david-dm.org/Beraliv/create-react-app/dev-status.svg" alt="devDependency Status"></a>
-<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT licence"></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT licence"></a>
 </p>
 
 ## Table of Contents
